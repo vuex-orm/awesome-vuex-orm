@@ -21,11 +21,11 @@
 
 - [Vuex ORM Examples](https://github.com/vuex-orm/vuex-orm-examples) - The example application to demonstrate the use case of the Vuex ORM.
 - [Vuex ORM Examples Nuxt](https://github.com/vuex-orm/vuex-orm-examples-nuxt) - The example Nuxt application to demonstrate the use case of the Vuex ORM.
+- [A Quick Intro to Vuex ORM](https://vuejsdevelopers.com/2019/04/29/vuex-orm-quick-intro) - How to, and why you should be using Vuex ORM.
 - [Vue \<3 GraphQL](https://dev.to/phortx/vue-3-graphql-kj6) - Introduction to the Vuex ORM GraphQL plugin.
 - [vuejsでのSPA開発をより快適にするvuex-orm](https://tech.basicinc.jp/articles/136) - Vuex ORMの使い方とチュートリアル。
 - [Vuexでリレーションを持った複雑なデータ構造を上手く扱うには](https://qiita.com/kiaking/items/bcd5360fb3106cf22a81) - Vuex ORMが生まれた理由と使いかた。
-- [Front-endで組み立てる、マイクロサービスでのVuexを使ったデータリレーション管理](https://qiita.com/kiaking/items/1cb4ea1b91f35532508b)
-- [A Quick Intro to Vuex ORM](https://vuejsdevelopers.com/2019/04/29/vuex-orm-quick-intro)
+- [Front-endで組み立てる、マイクロサービスでのVuexを使ったデータリレーション管理](https://qiita.com/kiaking/items/1cb4ea1b91f35532508b) - 複数のバックエンドが独自のDBを持っている時、フロントエンドでそのリレーションを組み立てるちょっと便利なVuex ORMの使いかた。
 
 ## Community
 
