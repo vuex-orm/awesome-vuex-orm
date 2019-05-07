@@ -25,6 +25,7 @@
 - [vuejsでのSPA開発をより快適にするvuex-orm](https://tech.basicinc.jp/articles/136) - Vuex ORMの使い方とチュートリアル。
 - [Vuexでリレーションを持った複雑なデータ構造を上手く扱うには](https://qiita.com/kiaking/items/bcd5360fb3106cf22a81) - Vuex ORMが生まれた理由と使いかた。
 - [Front-endで組み立てる、マイクロサービスでのVuexを使ったデータリレーション管理](https://qiita.com/kiaking/items/1cb4ea1b91f35532508b)
+- [A Quick Intro to Vuex ORM](https://vuejsdevelopers.com/2019/04/29/vuex-orm-quick-intro)
 
 ## Community
 
