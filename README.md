@@ -21,6 +21,7 @@
 
 - [Vuex ORM Examples](https://github.com/vuex-orm/vuex-orm-examples) - The example application to demonstrate the use case of the Vuex ORM.
 - [Vuex ORM Examples Nuxt](https://github.com/vuex-orm/vuex-orm-examples-nuxt) - The example Nuxt application to demonstrate the use case of the Vuex ORM.
+- [Vuex ORM Axios Example Nuxt](https://github.com/guillaumebriday/todolist-frontend-nuxt) - Real world Nuxt application with Vuex ORM and its Axios plugin.
 - [A Quick Intro to Vuex ORM](https://vuejsdevelopers.com/2019/04/29/vuex-orm-quick-intro) - How to, and why you should be using Vuex ORM.
 - [Vue \<3 GraphQL](https://dev.to/phortx/vue-3-graphql-kj6) - Introduction to the Vuex ORM GraphQL plugin.
 - [vuejsでのSPA開発をより快適にするvuex-orm](https://tech.basicinc.jp/articles/136) - Vuex ORMの使い方とチュートリアル。
