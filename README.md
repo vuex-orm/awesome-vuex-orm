@@ -30,6 +30,7 @@
 - [vuejsでのSPA開発をより快適にするvuex-orm](https://tech.basicinc.jp/articles/136) - Vuex ORMの使い方とチュートリアル。
 - [Vuexでリレーションを持った複雑なデータ構造を上手く扱うには](https://qiita.com/kiaking/items/bcd5360fb3106cf22a81) - Vuex ORMが生まれた理由と使いかた。
 - [DBをフロントに持てる！Vuex-ORM環境構築と動作確認](https://qiita.com/YaCpotato/items/b51384652659a400a2b9) - Vuex ORMの導入からセットアップまで。
+- [Vuex ORMとvuex-persistedstateの連携で半永続的データベースに！](https://qiita.com/YaCpotato/items/6a3651a8c73ac81c4cd9) – Vuex ORMとvuex-persistedstateの連携について。
 - [Front-endで組み立てる、マイクロサービスでのVuexを使ったデータリレーション管理](https://qiita.com/kiaking/items/1cb4ea1b91f35532508b) - 複数のバックエンドが独自のDBを持っている時、フロントエンドでそのリレーションを組み立てるちょっと便利なVuex ORMの使いかた。
 
 ## Community
