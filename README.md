@@ -16,6 +16,7 @@
 - [Vuex ORM Change Flags](https://github.com/vuex-orm/plugin-change-flags) - Vuex ORM plugin for adding IsDirty / IsNew flags to model entities.
 - [Vuex ORM Soft Delete](https://github.com/vuex-orm/plugin-soft-delete) – Vuex ORM plugin for adding soft delete feature to model entities.
 - [Vuex ORM LocalForage](https://github.com/eldomagan/vuex-orm-localforage) - The plugin to sync the store against an IndexedDB database using [LocalForage](https://github.com/localForage/localForage).
+- [Vuex ORM Sugar](https://www.npmjs.com/package/vuex-orm-sugar) - The plugin that provides some syntactic sugar on top of VuexORM.
 
 ## Examples
 
