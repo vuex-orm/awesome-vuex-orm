@@ -26,6 +26,7 @@
 
 ## Resources
 
+- [Getting Started Video Series](https://www.vuetiful.life/advanced/vuex-orm/) - A full, beginner to advanced Vuex ORM video series.
 - [A Quick Intro to Vuex ORM](https://vuejsdevelopers.com/2019/04/29/vuex-orm-quick-intro) - How to, and why you should be using Vuex ORM.
 - [Vue \<3 GraphQL](https://dev.to/phortx/vue-3-graphql-kj6) - Introduction to the Vuex ORM GraphQL plugin.
 - [vuejsでのSPA開発をより快適にするvuex-orm](https://tech.basicinc.jp/articles/136) - Vuex ORMの使い方とチュートリアル。
